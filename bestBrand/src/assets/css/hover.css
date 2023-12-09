@@ -1,0 +1,6 @@
+.allHoverElement:hover .nextHoverShow {
+    right: 20px;
+}
+.allHoverElement:hover .prevHoverShow {
+    left: 20px;
+}
